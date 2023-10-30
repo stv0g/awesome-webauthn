@@ -91,6 +91,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Firstyear: webauthn-authenticator-rs](https://github.com/Firstyear/webauthn-rs) - Contains a software webauthn token with ephemeral attestation CA allowing richer testing of device policies.
  
 ## Hardware Authenticators
+
+- [Comparison of USb Crypto and FIDO tokens](https://docs.google.com/spreadsheets/d/1XlwmreiBkt82F4HG965Yp9ncULkgnFpNyfe7WAAtYPk/edit?usp=sharing) - A colaborative Google Sheets including details about USB crypto tokens 
+
 - `FIDO CERTIFIED™` [SoloKeys](https://github.com/solokeys) - Solo is an open source FIDO2 security key, and you can get one at solokeys.com
 - `FIDO CONFORMANT` [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) - U2F Zero is an open source U2F token for 2 factor authentication.
 - [Trezor](https://github.com/trezor/trezor-core/tree/master/src/apps/webauthn) - Trezor is an open source hardware wallet with FIDO/U2F and FIDO2/WebAuthn functionality.
